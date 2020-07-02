@@ -1,0 +1,15 @@
+@media all and (max-width: 1000px) {
+    .slide-container, .promos  {
+        width: 600px;
+        height: 200px;
+    }
+}
+
+@media all and (max-width: 670px) {
+    .slide-container, .promos  {
+        width: 450px;
+        height: 150px;
+    }
+    
+
+  }
