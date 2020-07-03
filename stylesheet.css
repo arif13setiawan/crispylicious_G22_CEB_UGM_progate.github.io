@@ -60,7 +60,10 @@ header {
     color:white;
     display:block;
   }
-  
+  main {
+	background-image: url(https://raw.githubusercontent.com/arif13setiawan/arif13setiawan.github.io/master/crispylicious.jpg);
+	padding: 100px 0 20px 0;
+  }
 .container {
     max-width: 1170px;
     padding: 0 15px;
