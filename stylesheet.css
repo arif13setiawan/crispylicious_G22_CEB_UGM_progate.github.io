@@ -211,3 +211,22 @@ footer {
   margin-right: 5px;
 }
 
+@media (max-width: 1000px) {
+  /* Set the flex-wrap of .flex-list */
+  .header-right {
+    flex-direction: column;
+  }
+  .lesson-icon {
+    flex-direction: column;
+  }
+  .footer-right {
+    flex-direction: column;
+  }
+  
+  /* Set the width of the .flex-list li to 50% */
+  .flex-list li {
+    margin: 0 auto;
+  }
+  
+}
+
